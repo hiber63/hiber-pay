@@ -66,6 +66,13 @@
             <artifactId>bcprov-jdk16</artifactId>
             <version>1.46</version>
         </dependency>
+
+        <!-- 阿里sdk -->
+        <dependency>
+            <groupId>com.alipay.sdk</groupId>
+            <artifactId>alipay-sdk-java</artifactId>
+            <version>4.9.5.ALL</version>
+        </dependency>
     </dependencies>
 
     <build>
